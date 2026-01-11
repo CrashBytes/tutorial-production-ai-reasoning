@@ -1,5 +1,8 @@
 # Production AI Reasoning Systems
 
+[![Tests](https://github.com/CrashBytes/tutorial-production-ai-reasoning/workflows/Tests/badge.svg)](https://github.com/CrashBytes/tutorial-production-ai-reasoning/actions)
+[![codecov](https://codecov.io/gh/CrashBytes/tutorial-production-ai-reasoning/branch/main/graph/badge.svg)](https://codecov.io/gh/CrashBytes/tutorial-production-ai-reasoning)
+
 A production-ready implementation of AI reasoning systems with chain-of-thought prompting, intelligent strategy selection, cost monitoring, and enterprise deployment patterns.
 
 ## Overview
